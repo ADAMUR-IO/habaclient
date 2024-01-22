@@ -1,0 +1,1 @@
+export const backendUrl = 'https://1efa-197-237-175-232.ngrok-free.app';
